@@ -1,13 +1,13 @@
 # gdscrtask
 Welcome to my GitHub Repository made for GDSC MPSTME Recruitment Task.
 
-##Packages used:
+## Packages used:
 MongoDB
 Express.js
 Angular
 nodemon
 
-##Screenshots
+## Screenshots
 Default homepage
 
 ![image](https://user-images.githubusercontent.com/69336744/189278520-9f57d3a3-ec5b-45c8-8d2a-fba771178eae.png)
