@@ -2,10 +2,10 @@
 Welcome to my GitHub Repository made for GDSC MPSTME Recruitment Task.
 
 ## Packages used:
-MongoDB
-Express.js
-Angular
-nodemon
+1.MongoDB
+2.Express.js
+3.Angular
+4.nodemon
 
 ## Screenshots
 Default homepage
