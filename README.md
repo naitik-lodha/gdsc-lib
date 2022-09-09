@@ -6,7 +6,9 @@ Welcome to my GitHub Repository made for GDSC MPSTME Recruitment Task.
 2.Express.js
 3.Angular
 4.nodemon
-
+```bash
+npm install mongodb
+```
 ## Screenshots
 Default homepage
 
