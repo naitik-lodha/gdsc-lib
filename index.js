@@ -68,7 +68,7 @@ app.get('/books/available',(req,res)=>{
 //Showing books already issued
 app.get('/books/issued',(req,res)=>{
 
-    const book=temp.find(c => c.issued=="null");
+    const book=temp.find(c => c.issued!="null");
     if(!book) res.status(404).send("Sorry we do not have any book available")
     res.send(book)
     
